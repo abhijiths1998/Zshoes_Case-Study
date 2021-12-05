@@ -34,4 +34,4 @@ freight_value,payment_type, etc.
 * XgBoost
 
 ## Outcome
-Sucessfully built a predictive model based on random forest algorithm which will help in making an app for price prediction/recommendation
+Sucessfully built a predictive model based on XgBoost algorithm which will help in making an app for price prediction/recommendation
